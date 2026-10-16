@@ -1,0 +1,302 @@
+{
+  "total": 425,
+  "ageCoverage": {
+    "Stone Age": {
+      "total": 2,
+      "unverified": 2,
+      "age-overview-only": 0,
+      "source-linked-unverified": 0
+    },
+    "Bronze Age": {
+      "total": 22,
+      "unverified": 18,
+      "age-overview-only": 4,
+      "source-linked-unverified": 0
+    },
+    "Iron Age": {
+      "total": 24,
+      "unverified": 19,
+      "age-overview-only": 5,
+      "source-linked-unverified": 0
+    },
+    "Early Middle Ages": {
+      "total": 24,
+      "unverified": 5,
+      "age-overview-only": 19,
+      "source-linked-unverified": 0
+    },
+    "High Middle Ages": {
+      "total": 24,
+      "unverified": 11,
+      "age-overview-only": 13,
+      "source-linked-unverified": 0
+    },
+    "Late Middle Ages": {
+      "total": 20,
+      "unverified": 5,
+      "age-overview-only": 15,
+      "source-linked-unverified": 0
+    },
+    "Colonial Age": {
+      "total": 22,
+      "unverified": 9,
+      "age-overview-only": 13,
+      "source-linked-unverified": 0
+    },
+    "Industrial Age": {
+      "total": 22,
+      "unverified": 13,
+      "age-overview-only": 9,
+      "source-linked-unverified": 0
+    },
+    "Progressive Era": {
+      "total": 18,
+      "unverified": 0,
+      "age-overview-only": 18,
+      "source-linked-unverified": 0
+    },
+    "Modern Era": {
+      "total": 27,
+      "unverified": 0,
+      "age-overview-only": 27,
+      "source-linked-unverified": 0
+    },
+    "Postmodern Era": {
+      "total": 22,
+      "unverified": 5,
+      "age-overview-only": 17,
+      "source-linked-unverified": 0
+    },
+    "Contemporary Era": {
+      "total": 26,
+      "unverified": 0,
+      "age-overview-only": 26,
+      "source-linked-unverified": 0
+    },
+    "Tomorrow Era": {
+      "total": 27,
+      "unverified": 0,
+      "age-overview-only": 27,
+      "source-linked-unverified": 0
+    },
+    "Future Era": {
+      "total": 25,
+      "unverified": 0,
+      "age-overview-only": 25,
+      "source-linked-unverified": 0
+    },
+    "Arctic Future": {
+      "total": 30,
+      "unverified": 0,
+      "age-overview-only": 30,
+      "source-linked-unverified": 0
+    },
+    "Oceanic Future": {
+      "total": 35,
+      "unverified": 0,
+      "age-overview-only": 35,
+      "source-linked-unverified": 0
+    },
+    "Virtual Future": {
+      "total": 26,
+      "unverified": 0,
+      "age-overview-only": 26,
+      "source-linked-unverified": 0
+    },
+    "Space Age Mars": {
+      "total": 12,
+      "unverified": 0,
+      "age-overview-only": 12,
+      "source-linked-unverified": 0
+    },
+    "Space Age Asteroid Belt": {
+      "total": 5,
+      "unverified": 0,
+      "age-overview-only": 5,
+      "source-linked-unverified": 0
+    },
+    "Space Age Space Hub": {
+      "total": 12,
+      "unverified": 0,
+      "age-overview-only": 12,
+      "source-linked-unverified": 0
+    }
+  },
+  "unsubstantiatedVerificationClaims": 29,
+  "issues": [
+    {
+      "index": 396,
+      "age": "Space Age Mars",
+      "name": "Adaptive Home",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 397,
+      "age": "Space Age Mars",
+      "name": "Astronaut Training Dormitory",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 398,
+      "age": "Space Age Mars",
+      "name": "New Horizons Center",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 399,
+      "age": "Space Age Mars",
+      "name": "Rocket Testing Site",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 400,
+      "age": "Space Age Mars",
+      "name": "Sentinel Dome",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 401,
+      "age": "Space Age Mars",
+      "name": "Sniperbot Facility",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 402,
+      "age": "Space Age Mars",
+      "name": "Space Marine Barracks",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 403,
+      "age": "Space Age Mars",
+      "name": "Steel Warden Station",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 404,
+      "age": "Space Age Mars",
+      "name": "Tesla Works",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 405,
+      "age": "Space Age Mars",
+      "name": "Satellite Dish",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 406,
+      "age": "Space Age Mars",
+      "name": "Space Academy",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 407,
+      "age": "Space Age Mars",
+      "name": "Moonlander",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 408,
+      "age": "Space Age Asteroid Belt",
+      "name": "Living Space Residence",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 409,
+      "age": "Space Age Asteroid Belt",
+      "name": "Low-Gravity Home",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 410,
+      "age": "Space Age Asteroid Belt",
+      "name": "Belt Mining H.Q.",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 411,
+      "age": "Space Age Asteroid Belt",
+      "name": "Asteroid Stock Exchange",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 412,
+      "age": "Space Age Asteroid Belt",
+      "name": "Asteroid Ad",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 413,
+      "age": "Space Age Space Hub",
+      "name": "Cosmic Suite",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 414,
+      "age": "Space Age Space Hub",
+      "name": "Galactic Suite",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 415,
+      "age": "Space Age Space Hub",
+      "name": "Galactic Observatory",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 416,
+      "age": "Space Age Space Hub",
+      "name": "A.I. Laboratory",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 417,
+      "age": "Space Age Space Hub",
+      "name": "Cosmic Space Liner",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 418,
+      "age": "Space Age Space Hub",
+      "name": "Dream Dust Shuttle",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 419,
+      "age": "Space Age Space Hub",
+      "name": "Gravity Gunner Vessel",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 420,
+      "age": "Space Age Space Hub",
+      "name": "Stardust Spacecraft",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 421,
+      "age": "Space Age Space Hub",
+      "name": "Juggernaut Assembly Vessel",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 422,
+      "age": "Space Age Space Hub",
+      "name": "Galaxy Vortex",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 423,
+      "age": "Space Age Space Hub",
+      "name": "LU-N-Arcade",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    },
+    {
+      "index": 424,
+      "age": "Space Age Space Hub",
+      "name": "Explorer Ship",
+      "issue": "Claims age-table verification but links only to generic age overview"
+    }
+  ]
+}

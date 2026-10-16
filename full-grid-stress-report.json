@@ -1,0 +1,11 @@
+{
+  "canvas": "56x56",
+  "scenarios": [
+    {"buildings":8,"placed":8,"connected":8,"runtimeMs":536},
+    {"buildings":35,"placed":35,"connected":21,"runtimeMs":1204},
+    {"buildings":90,"placed":90,"connected":34,"runtimeMs":892}
+  ],
+  "conclusion":"No runtime failures. Connection rate drops in dense scenarios; optimizer currently reports partial layouts.",
+  "limitations":["Timing is single-run, not benchmark average","No browser automation available in sandbox","In-game road junction validation pending"],
+  "deployment":"not deployed"
+}
