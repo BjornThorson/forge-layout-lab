@@ -1,0 +1,17 @@
+{
+  "reference": "https://support.innogames.com/kb/ForgeOfEmpires/en_DK/452",
+  "checks": {
+    "two_lane_uses_2x2_footprint": true,
+    "two_lane_origin_alignment_enforced": false,
+    "two_lane_direct_town_hall_connection": false,
+    "road_path_uses_global_tile_set": true,
+    "road_types_stored_separately": false,
+    "road_search_uses_queue_sort": true
+  },
+  "issues": [
+    "Two-lane road segments are modeled as sliding 2x2 squares rather than a consistent 2x2-aligned network.",
+    "The route output merges one-lane and two-lane tiles into a single set, preventing independent validation.",
+    "Direct two-lane connectivity to the Town Hall is not explicitly validated."
+  ],
+  "recommendation": "Do not label generated two-lane-road layouts game-valid until a typed-road network and validation are implemented."
+}

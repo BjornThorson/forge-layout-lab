@@ -1,0 +1,13 @@
+{
+  "status": "passed targeted routing regressions",
+  "tests": 6,
+  "buildingEntries": 425,
+  "syntax": "passed",
+  "limits": [
+    "No browser-level interaction tests",
+    "No in-game validation of two-lane junctions",
+    "No stress benchmark on full 56x56 canvas",
+    "No verification of catalogue dimensions"
+  ],
+  "deployment": "not deployed"
+}

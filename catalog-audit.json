@@ -1,0 +1,218 @@
+{
+  "generatedAt": "2026-10-15T00:40:47.294Z",
+  "total": 425,
+  "ageCoverage": {
+    "Stone Age": {
+      "count": 2,
+      "categories": {
+        "Production": 1,
+        "Residential": 1
+      }
+    },
+    "Bronze Age": {
+      "count": 22,
+      "categories": {
+        "Military": 5,
+        "Production": 4,
+        "Residential": 4,
+        "Goods": 5,
+        "Culture": 4
+      }
+    },
+    "Iron Age": {
+      "count": 24,
+      "categories": {
+        "Culture": 3,
+        "Decoration": 5,
+        "Goods": 5,
+        "Military": 5,
+        "Production": 3,
+        "Residential": 3
+      }
+    },
+    "Early Middle Ages": {
+      "count": 24,
+      "categories": {
+        "Goods": 5,
+        "Military": 5,
+        "Production": 3,
+        "Residential": 3,
+        "Culture": 4,
+        "Decoration": 4
+      }
+    },
+    "High Middle Ages": {
+      "count": 24,
+      "categories": {
+        "Culture": 3,
+        "Decoration": 5,
+        "Goods": 5,
+        "Military": 5,
+        "Production": 3,
+        "Residential": 3
+      }
+    },
+    "Late Middle Ages": {
+      "count": 20,
+      "categories": {
+        "Military": 5,
+        "Production": 3,
+        "Residential": 3,
+        "Goods": 5,
+        "Culture": 4
+      }
+    },
+    "Colonial Age": {
+      "count": 22,
+      "categories": {
+        "Military": 5,
+        "Residential": 4,
+        "Production": 4,
+        "Goods": 5,
+        "Culture": 4
+      }
+    },
+    "Industrial Age": {
+      "count": 22,
+      "categories": {
+        "Military": 5,
+        "Production": 4,
+        "Residential": 4,
+        "Goods": 5,
+        "Culture": 4
+      }
+    },
+    "Progressive Era": {
+      "count": 18,
+      "categories": {
+        "Military": 5,
+        "Residential": 4,
+        "Production": 4,
+        "Goods": 5
+      }
+    },
+    "Modern Era": {
+      "count": 27,
+      "categories": {
+        "Military": 5,
+        "Production": 4,
+        "Residential": 4,
+        "Goods": 5,
+        "Culture": 4,
+        "Decoration": 5
+      }
+    },
+    "Postmodern Era": {
+      "count": 22,
+      "categories": {
+        "Military": 5,
+        "Production": 4,
+        "Residential": 4,
+        "Goods": 5,
+        "Culture": 4
+      }
+    },
+    "Contemporary Era": {
+      "count": 26,
+      "categories": {
+        "Production": 4,
+        "Residential": 4,
+        "Goods": 5,
+        "Military": 5,
+        "Culture": 4,
+        "Decoration": 4
+      }
+    },
+    "Tomorrow Era": {
+      "count": 27,
+      "categories": {
+        "Residential": 4,
+        "Production": 4,
+        "Goods": 5,
+        "Culture": 4,
+        "Military": 5,
+        "Decoration": 5
+      }
+    },
+    "Future Era": {
+      "count": 25,
+      "categories": {
+        "Residential": 4,
+        "Production": 4,
+        "Goods": 5,
+        "Culture": 4,
+        "Military": 5,
+        "Decoration": 3
+      }
+    },
+    "Arctic Future": {
+      "count": 30,
+      "categories": {
+        "Residential": 5,
+        "Production": 5,
+        "Goods": 5,
+        "Culture": 5,
+        "Military": 6,
+        "Decoration": 4
+      }
+    },
+    "Oceanic Future": {
+      "count": 35,
+      "categories": {
+        "Production": 9,
+        "Goods": 5,
+        "Culture": 9,
+        "Residential": 2,
+        "Military": 10
+      }
+    },
+    "Virtual Future": {
+      "count": 26,
+      "categories": {
+        "Residential": 4,
+        "Production": 4,
+        "Goods": 5,
+        "Culture": 4,
+        "Military": 5,
+        "Decoration": 4
+      }
+    },
+    "Space Age Mars": {
+      "count": 12,
+      "categories": {
+        "Residential": 2,
+        "Production": 2,
+        "Military": 5,
+        "Culture": 2,
+        "Decoration": 1
+      }
+    },
+    "Space Age Asteroid Belt": {
+      "count": 5,
+      "categories": {
+        "Residential": 2,
+        "Culture": 2,
+        "Decoration": 1
+      }
+    },
+    "Space Age Space Hub": {
+      "count": 12,
+      "categories": {
+        "Residential": 2,
+        "Production": 2,
+        "Military": 5,
+        "Culture": 2,
+        "Decoration": 1
+      }
+    }
+  },
+  "duplicates": [],
+  "invalid": [],
+  "genericAgePageSources": 236,
+  "missingSource": 87,
+  "roadRequirementCounts": {
+    "0": 42,
+    "1": 217,
+    "2": 166
+  }
+}

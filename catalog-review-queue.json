@@ -1,0 +1,4252 @@
+[
+  {
+    "age": "Stone Age",
+    "category": "Production",
+    "name": "Hunter’s Cabin",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Stone Age",
+    "category": "Residential",
+    "name": "Hut",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Military",
+    "name": "Horseman Stable",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Military",
+    "name": "Slinger Range",
+    "w": 2,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Military",
+    "name": "Spearfighter Barracks",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Military",
+    "name": "Thrower Camp",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Military",
+    "name": "Warrior Barracks",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Production",
+    "name": "Blacksmith",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Production",
+    "name": "Domestication Pen",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Production",
+    "name": "Fruit Farm",
+    "w": 5,
+    "h": 4,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Production",
+    "name": "Pottery",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Residential",
+    "name": "Chalet",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Residential",
+    "name": "Longhouse",
+    "w": 4,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Residential",
+    "name": "Stilt House",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Residential",
+    "name": "Thatched House",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Culture",
+    "name": "Amphitheater",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Culture",
+    "name": "Public Bath",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Culture",
+    "name": "Triumphal Arch",
+    "w": 3,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Decoration",
+    "name": "Aqueduct",
+    "w": 3,
+    "h": 1,
+    "roadSize": 0,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Decoration",
+    "name": "Flower Tub",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Decoration",
+    "name": "Fountain",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Decoration",
+    "name": "Monument",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Decoration",
+    "name": "Victory Pillar",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Goods",
+    "name": "Ebony Woodworks",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Iron_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Goods",
+    "name": "Iron Foundry",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Iron_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Goods",
+    "name": "Jewelry Manufacturer",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Iron_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Goods",
+    "name": "Limestone Mason",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Iron_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Goods",
+    "name": "Weaving Mill",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Iron_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Military",
+    "name": "Archery Range",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Military",
+    "name": "Ballista Camp",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Military",
+    "name": "Legionnaire Barracks",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Military",
+    "name": "Mounted Warrior Stable",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Military",
+    "name": "Soldier Barracks",
+    "w": 3,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Production",
+    "name": "Butcher",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Production",
+    "name": "Goat Farm",
+    "w": 4,
+    "h": 5,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Production",
+    "name": "Tailor",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Residential",
+    "name": "Cottage",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Residential",
+    "name": "Roof Tile House",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Iron Age",
+    "category": "Residential",
+    "name": "Villa",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Goods",
+    "name": "Alabaster Mason",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Goods",
+    "name": "Beekeeper",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Goods",
+    "name": "Copper Foundry",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Goods",
+    "name": "Goldsmith",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Goods",
+    "name": "Granite Mason",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Military",
+    "name": "Armored Infantry Barracks",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Military",
+    "name": "Catapult Camp",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Military",
+    "name": "Heavy Cavalry Stable",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Military",
+    "name": "Mercenary Barracks",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Military",
+    "name": "Mounted Archer Range",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Production",
+    "name": "Bakery",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Production",
+    "name": "Shoemaker",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Production",
+    "name": "Tannery",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Residential",
+    "name": "Clapboard House",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Residential",
+    "name": "Frame House",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Residential",
+    "name": "Multistory House",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Culture",
+    "name": "Church",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/High_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Culture",
+    "name": "Doctor",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/High_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Culture",
+    "name": "Printer",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/High_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Decoration",
+    "name": "Fence",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/High_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Decoration",
+    "name": "Flag",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/High_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Decoration",
+    "name": "Gargoyle",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/High_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Decoration",
+    "name": "Lantern",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/High_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Decoration",
+    "name": "Signpost",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/High_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Goods",
+    "name": "Brickworks",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/High_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Goods",
+    "name": "Glassblower",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/High_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Goods",
+    "name": "Herb Merchant",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/High_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Goods",
+    "name": "Ropery",
+    "w": 3,
+    "h": 2,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/High_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Goods",
+    "name": "Saltworks",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/High_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Military",
+    "name": "Berserker Barracks",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Military",
+    "name": "Crossbow Range",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Military",
+    "name": "Heavy Infantry Barracks",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Military",
+    "name": "Knight Stable",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Military",
+    "name": "Trebuchet Camp",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Production",
+    "name": "Alchemist",
+    "w": 3,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Production",
+    "name": "Farm",
+    "w": 4,
+    "h": 5,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Production",
+    "name": "Windmill",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Residential",
+    "name": "Brownstone House",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Residential",
+    "name": "Mansion",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "High Middle Ages",
+    "category": "Residential",
+    "name": "Town House",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Military",
+    "name": "Cannon Camp",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Military",
+    "name": "Great Sword Warrior Barracks",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Military",
+    "name": "Heavy Knight Stable",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Military",
+    "name": "Imperial Guard Barracks",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Military",
+    "name": "Longbow Archer Range",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Production",
+    "name": "Cooperage",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Late_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Production",
+    "name": "Spice Trader",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Late_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Residential",
+    "name": "Apartment House",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Late_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Residential",
+    "name": "Estate House",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Late_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Residential",
+    "name": "Manor",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Late_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Military",
+    "name": "Dragoon Stables",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Military",
+    "name": "Field Gun Camp",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Military",
+    "name": "Grenadier Barracks",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Military",
+    "name": "Musketeer Range",
+    "w": 5,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Military",
+    "name": "Ranger Encampment",
+    "w": 4,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Residential",
+    "name": "Arcade House",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Residential",
+    "name": "Country House",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Residential",
+    "name": "Gambrel Roof House",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Residential",
+    "name": "Plantation House",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Military",
+    "name": "Breech Loader Factory",
+    "w": 3,
+    "h": 5,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Military",
+    "name": "Howitzer Factory",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Military",
+    "name": "Jaeger Encampment",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Military",
+    "name": "Lancer Stables",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Military",
+    "name": "Rifleman Range",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Production",
+    "name": "Ceramics Factory",
+    "w": 5,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Production",
+    "name": "Chemical Plant",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Production",
+    "name": "Gunsmith",
+    "w": 2,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Production",
+    "name": "Wheelwright",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Residential",
+    "name": "Boarding House",
+    "w": 3,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Residential",
+    "name": "Urban Residence",
+    "w": 3,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Residential",
+    "name": "Victorian House",
+    "w": 3,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Residential",
+    "name": "Workers' House",
+    "w": 3,
+    "h": 2,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Military",
+    "name": "Armored Car Factory",
+    "w": 5,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Military",
+    "name": "Conscription Office",
+    "w": 5,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Military",
+    "name": "Ordnance Factory",
+    "w": 4,
+    "h": 5,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Military",
+    "name": "Sniper Camp",
+    "w": 6,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Military",
+    "name": "Tank Factory",
+    "w": 4,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Residential",
+    "name": "Art Nouveau Mansion",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Residential",
+    "name": "Council House",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Residential",
+    "name": "High-Rise",
+    "w": 3,
+    "h": 3,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Residential",
+    "name": "Tenement House",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Military",
+    "name": "Battle Tank Factory",
+    "w": 4,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Military",
+    "name": "Heavy Weapons Center",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Military",
+    "name": "Mechanized Artillery Factory",
+    "w": 5,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Military",
+    "name": "Mechanized Infantry Barracks",
+    "w": 5,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Military",
+    "name": "Paratrooper Camp",
+    "w": 5,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Production",
+    "name": "Aircraft Factory",
+    "w": 6,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Production",
+    "name": "Appliance Factory",
+    "w": 4,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Production",
+    "name": "Film Studio",
+    "w": 7,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Production",
+    "name": "Hatter",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Residential",
+    "name": "Luxury Dwelling",
+    "w": 4,
+    "h": 3,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Residential",
+    "name": "Suburban House",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Military",
+    "name": "Commando Camp",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Military",
+    "name": "IFV Factory",
+    "w": 4,
+    "h": 5,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Military",
+    "name": "Machinegun Range",
+    "w": 3,
+    "h": 7,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Military",
+    "name": "Rocket Artillery Factory",
+    "w": 6,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Military",
+    "name": "Universal Tank Factory",
+    "w": 4,
+    "h": 6,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Production",
+    "name": "Car Factory",
+    "w": 5,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Postmodern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Production",
+    "name": "Greenhouse Complex",
+    "w": 5,
+    "h": 3,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Postmodern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Production",
+    "name": "Junkyard",
+    "w": 5,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Postmodern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Production",
+    "name": "Toy Factory",
+    "w": 5,
+    "h": 5,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Postmodern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Production",
+    "name": "Business Center",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Production",
+    "name": "Computer Games Company",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Production",
+    "name": "Fish Market",
+    "w": 5,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Production",
+    "name": "Logistics Center",
+    "w": 4,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Residential",
+    "name": "Waterfront Residential",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Residential",
+    "name": "Waterfront Villa",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Residential",
+    "name": "Annex",
+    "w": 3,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Residential",
+    "name": "Capsule Hotel",
+    "w": 4,
+    "h": 3,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Residential",
+    "name": "Pod Home",
+    "w": 1,
+    "h": 1,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Residential",
+    "name": "Terraced High-Rise",
+    "w": 4,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Residential",
+    "name": "Arcology",
+    "w": 6,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Residential",
+    "name": "Self-Supporting Home",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Goods",
+    "name": "Dye Works",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Goods",
+    "name": "Lumbermill",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Goods",
+    "name": "Marble Mason",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Goods",
+    "name": "Stone Mason",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Goods",
+    "name": "Vineyard",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": null,
+    "auditStatus": "unverified"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Culture",
+    "name": "School",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Bronze_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Culture",
+    "name": "Stone Circle",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Bronze_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Culture",
+    "name": "Tavern",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Bronze_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Bronze Age",
+    "category": "Culture",
+    "name": "Theater",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Bronze_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Culture",
+    "name": "Gallows",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Culture",
+    "name": "Inn",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Culture",
+    "name": "Marketplace",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Culture",
+    "name": "Pillory",
+    "w": 2,
+    "h": 2,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Decoration",
+    "name": "Cypress",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Decoration",
+    "name": "Floral Bush",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Decoration",
+    "name": "Hedge with Flowers",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Early Middle Ages",
+    "category": "Decoration",
+    "name": "Pond",
+    "w": 2,
+    "h": 2,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Early_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Production",
+    "name": "Brewery",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Late_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Goods",
+    "name": "Basalt Mason",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Late_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Goods",
+    "name": "Brass Foundry",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Late_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Goods",
+    "name": "Gunpowder Manufactory",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Late_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Goods",
+    "name": "Silk Manufactory",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Late_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Goods",
+    "name": "Talc Cutter",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Late_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Culture",
+    "name": "Cartographer",
+    "w": 3,
+    "h": 2,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Late_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Culture",
+    "name": "Library",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Late_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Culture",
+    "name": "Academy",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Late_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Late Middle Ages",
+    "category": "Culture",
+    "name": "Palace",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Late_Middle_Ages",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Production",
+    "name": "Sailmaker",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Colonial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Production",
+    "name": "Tobacco Plantation",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Colonial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Production",
+    "name": "Clockmaker",
+    "w": 3,
+    "h": 2,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Colonial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Production",
+    "name": "Perfume Distillery",
+    "w": 3,
+    "h": 2,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Colonial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Goods",
+    "name": "Coffee Roaster",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Colonial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Goods",
+    "name": "Paper Mill",
+    "w": 2,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Colonial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Goods",
+    "name": "Porcelain Manufactory",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Colonial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Goods",
+    "name": "Tar Kiln",
+    "w": 3,
+    "h": 5,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Colonial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Goods",
+    "name": "Wiremill",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Colonial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Culture",
+    "name": "Exotic Goods Vendor",
+    "w": 3,
+    "h": 2,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Colonial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Culture",
+    "name": "Coiffeur",
+    "w": 3,
+    "h": 2,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Colonial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Culture",
+    "name": "Trading Company",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Colonial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Colonial Age",
+    "category": "Culture",
+    "name": "Travelling Circus",
+    "w": 5,
+    "h": 5,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Colonial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Goods",
+    "name": "Coke Oven",
+    "w": 4,
+    "h": 5,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Industrial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Goods",
+    "name": "Fertilizer Plant",
+    "w": 4,
+    "h": 5,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Industrial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Goods",
+    "name": "Rubber Plant",
+    "w": 5,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Industrial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Goods",
+    "name": "Textile Mill",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Industrial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Goods",
+    "name": "Whaling Station",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Industrial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Culture",
+    "name": "Saloon",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Industrial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Culture",
+    "name": "Police Station",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Industrial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Culture",
+    "name": "Water Pumping Station",
+    "w": 4,
+    "h": 5,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Industrial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Industrial Age",
+    "category": "Culture",
+    "name": "Natural History Museum",
+    "w": 6,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Industrial_Age",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Production",
+    "name": "Garage",
+    "w": 4,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Production",
+    "name": "Lamp Factory",
+    "w": 6,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Production",
+    "name": "Cattle Ranch",
+    "w": 7,
+    "h": 6,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Production",
+    "name": "Deli Shop",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Goods",
+    "name": "Asbestos Factory",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Goods",
+    "name": "Explosives Factory",
+    "w": 4,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Goods",
+    "name": "Machine Workshop",
+    "w": 6,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Goods",
+    "name": "Oil Refinery",
+    "w": 7,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Progressive Era",
+    "category": "Goods",
+    "name": "Tinning Plant",
+    "w": 3,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Progressive_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Residential",
+    "name": "Motel",
+    "w": 4,
+    "h": 3,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Residential",
+    "name": "Prefab House",
+    "w": 4,
+    "h": 3,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Goods",
+    "name": "Concrete Plant",
+    "w": 5,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Goods",
+    "name": "Construction Warehouse",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Goods",
+    "name": "Flavor Laboratory",
+    "w": 6,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Goods",
+    "name": "Food Processing Plant",
+    "w": 4,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Goods",
+    "name": "Packaging Factory",
+    "w": 7,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Culture",
+    "name": "American Diner",
+    "w": 3,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Culture",
+    "name": "Drive-In Theater",
+    "w": 6,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Culture",
+    "name": "Roller Derby Track",
+    "w": 5,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Culture",
+    "name": "Amusement Park",
+    "w": 8,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Decoration",
+    "name": "Nuclear Shelter",
+    "w": 2,
+    "h": 2,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Decoration",
+    "name": "Jet Statue",
+    "w": 2,
+    "h": 3,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Decoration",
+    "name": "Palm Group",
+    "w": 2,
+    "h": 2,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Decoration",
+    "name": "Drive-In Sign",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Modern Era",
+    "category": "Decoration",
+    "name": "Welcome Sign",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Modern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Residential",
+    "name": "Duplex House",
+    "w": 4,
+    "h": 3,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Postmodern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Residential",
+    "name": "Prefabricated High-Rise",
+    "w": 4,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Postmodern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Residential",
+    "name": "Bungalow",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Postmodern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Residential",
+    "name": "Loft House",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Postmodern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Goods",
+    "name": "Tree Nursery",
+    "w": 6,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Postmodern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Goods",
+    "name": "Steel Plant",
+    "w": 6,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Postmodern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Goods",
+    "name": "Semiconductor Factory",
+    "w": 4,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Postmodern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Goods",
+    "name": "Industrial Filter Factory",
+    "w": 4,
+    "h": 7,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Postmodern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Goods",
+    "name": "Genetics Research Lab",
+    "w": 7,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Postmodern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Culture",
+    "name": "Zoo",
+    "w": 5,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Postmodern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Culture",
+    "name": "Golf Course",
+    "w": 6,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Postmodern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Culture",
+    "name": "Public Pool",
+    "w": 5,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Postmodern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Postmodern Era",
+    "category": "Culture",
+    "name": "Music Festival",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Postmodern_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Production",
+    "name": "3D Printer",
+    "w": 4,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Production",
+    "name": "Drone Factory",
+    "w": 6,
+    "h": 3,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Production",
+    "name": "Private Security Company",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Production",
+    "name": "Urban Farm",
+    "w": 6,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Goods",
+    "name": "Nutrition Research Lab",
+    "w": 5,
+    "h": 3,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Goods",
+    "name": "Papercrete Factory",
+    "w": 4,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Goods",
+    "name": "Preservatives Factory",
+    "w": 4,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Goods",
+    "name": "Smart Materials Factory",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Goods",
+    "name": "Translucent Concrete Plant",
+    "w": 5,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Culture",
+    "name": "Concept Vehicle Fair",
+    "w": 6,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Culture",
+    "name": "Hologram Arena",
+    "w": 5,
+    "h": 5,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Culture",
+    "name": "Surveillance Nexus",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Culture",
+    "name": "Tower Club",
+    "w": 5,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Military",
+    "name": "Anti-Materiel Range",
+    "w": 3,
+    "h": 5,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Military",
+    "name": "Combat Drone Base",
+    "w": 4,
+    "h": 3,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Military",
+    "name": "Microwave Blaster Factory",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Military",
+    "name": "Stealth Tank Factory",
+    "w": 4,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Military",
+    "name": "Ultra AP Factory",
+    "w": 4,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Decoration",
+    "name": "Burger Booth",
+    "w": 2,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Decoration",
+    "name": "Pizza Booth",
+    "w": 2,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Decoration",
+    "name": "Security Post",
+    "w": 1,
+    "h": 2,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Decoration",
+    "name": "Surveillance Camera",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Tomorrow Era",
+    "category": "Decoration",
+    "name": "Veggie Booth",
+    "w": 1,
+    "h": 2,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Tomorrow_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Residential",
+    "name": "Condominium",
+    "w": 4,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Residential",
+    "name": "Shophouse",
+    "w": 3,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Goods",
+    "name": "Bionics Research Lab",
+    "w": 6,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Goods",
+    "name": "LNG Plant",
+    "w": 6,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Goods",
+    "name": "Magnet Factory",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Goods",
+    "name": "Plastics Plant",
+    "w": 4,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Goods",
+    "name": "Robotics Factory",
+    "w": 4,
+    "h": 7,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Military",
+    "name": "Air Defense Factory",
+    "w": 4,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Military",
+    "name": "Assault Tank Factory",
+    "w": 7,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Military",
+    "name": "Attack Helicopter Base",
+    "w": 5,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Military",
+    "name": "Missile Site",
+    "w": 3,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Military",
+    "name": "Strike Team Center",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Culture",
+    "name": "Casino",
+    "w": 4,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Culture",
+    "name": "Floating Market",
+    "w": 6,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Culture",
+    "name": "Shopping Mall",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Culture",
+    "name": "Zen Garden",
+    "w": 2,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Decoration",
+    "name": "Canal Bridge",
+    "w": 1,
+    "h": 2,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Decoration",
+    "name": "Cherry Tree",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Decoration",
+    "name": "Monster Statue",
+    "w": 2,
+    "h": 2,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Contemporary Era",
+    "category": "Decoration",
+    "name": "Neon Billboard",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Contemporary_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Residential",
+    "name": "Tree House Hotel",
+    "w": 3,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Residential",
+    "name": "Underground House",
+    "w": 4,
+    "h": 3,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Production",
+    "name": "Food Printer",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Production",
+    "name": "Helium-3 Extraction Facility",
+    "w": 6,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Production",
+    "name": "Levitation Outlet",
+    "w": 3,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Production",
+    "name": "Sea Life Tower",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Goods",
+    "name": "Algae Farm",
+    "w": 6,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Goods",
+    "name": "Earth Science Center",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Goods",
+    "name": "Nanoparticle Laboratory",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Goods",
+    "name": "Superconductor Factory",
+    "w": 4,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Goods",
+    "name": "Water Purifier",
+    "w": 7,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Culture",
+    "name": "Algae Airship",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Culture",
+    "name": "Concert Hall",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Culture",
+    "name": "Eco Park",
+    "w": 6,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Culture",
+    "name": "Weather Control Station",
+    "w": 4,
+    "h": 3,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Military",
+    "name": "Drone Swarm Hub",
+    "w": 4,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Military",
+    "name": "Exoskeleton Factory",
+    "w": 4,
+    "h": 5,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Military",
+    "name": "Hover Tank Base",
+    "w": 6,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Military",
+    "name": "Rail Gun Range",
+    "w": 6,
+    "h": 3,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Military",
+    "name": "Satellite Uplink Center",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Decoration",
+    "name": "Lichen Lamp",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Decoration",
+    "name": "Plantarium",
+    "w": 2,
+    "h": 2,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Future Era",
+    "category": "Decoration",
+    "name": "Wind Turbine",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Future_Era",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Residential",
+    "name": "Clock Tower Apartment",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Residential",
+    "name": "Mobile House",
+    "w": 4,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Residential",
+    "name": "Sea-Scraper",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Residential",
+    "name": "Sheltered Tipi",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Residential",
+    "name": "Crystal Villa",
+    "w": 4,
+    "h": 3,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Production",
+    "name": "Dry Dock",
+    "w": 6,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Production",
+    "name": "Plasma Generator",
+    "w": 4,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Production",
+    "name": "Recycling Wheel",
+    "w": 5,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Production",
+    "name": "Vertical Farm",
+    "w": 4,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Production",
+    "name": "Crystal Flower Store",
+    "w": 3,
+    "h": 2,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Goods",
+    "name": "A.I. Research Center",
+    "w": 5,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Goods",
+    "name": "Bioplastics Factory",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Goods",
+    "name": "Nanowire Laboratory",
+    "w": 4,
+    "h": 7,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Goods",
+    "name": "Paper Battery Factory",
+    "w": 6,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Goods",
+    "name": "Transester Gas Catalyzer",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Culture",
+    "name": "Blue Lagoon",
+    "w": 5,
+    "h": 5,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Culture",
+    "name": "Communication Tower",
+    "w": 4,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Culture",
+    "name": "Holo-Holiday Park",
+    "w": 6,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Culture",
+    "name": "Personal Rapid Transport",
+    "w": 7,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Culture",
+    "name": "Vertical Zoo",
+    "w": 6,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Military",
+    "name": "Battle Fortress Factory",
+    "w": 5,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Military",
+    "name": "Behemoth Hangar",
+    "w": 6,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Military",
+    "name": "Dragon Drone Base",
+    "w": 5,
+    "h": 5,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Military",
+    "name": "Plasma Range",
+    "w": 6,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Military",
+    "name": "Recon Raider Garage",
+    "w": 3,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Military",
+    "name": "Surrogate Assembly",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Decoration",
+    "name": "Flower Arbor",
+    "w": 2,
+    "h": 2,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Decoration",
+    "name": "Ice Sculpture",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Decoration",
+    "name": "Tube Entrance",
+    "w": 2,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Arctic Future",
+    "category": "Decoration",
+    "name": "Ice Flower",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Arctic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Production",
+    "name": "Geothermal Power Plant",
+    "w": 4,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Production",
+    "name": "Deep Sea Breeder",
+    "w": 6,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Production",
+    "name": "Day Spa",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Production",
+    "name": "Boatyard",
+    "w": 4,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Production",
+    "name": "Shellfish Farm",
+    "w": 5,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Production",
+    "name": "Seaside Store",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Production",
+    "name": "Mineral Extraction Plant",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Production",
+    "name": "Seaweed Harvest",
+    "w": 6,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Production",
+    "name": "Sea Garden",
+    "w": 3,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Goods",
+    "name": "Oyster Ranch",
+    "w": 6,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Goods",
+    "name": "Artificial Scale Artisans",
+    "w": 5,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Goods",
+    "name": "Coral Breeder",
+    "w": 6,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Goods",
+    "name": "Deep Sea Research Lab",
+    "w": 6,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Goods",
+    "name": "Phytoplankton Factory",
+    "w": 7,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Residential",
+    "name": "Generational Home",
+    "w": 4,
+    "h": 5,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Residential",
+    "name": "VR Lodge",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Residential",
+    "name": "Tea House",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Residential",
+    "name": "Modular VR Dwelling",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Production",
+    "name": "Holographic Research Lab",
+    "w": 5,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Production",
+    "name": "Body Shop",
+    "w": 5,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Production",
+    "name": "VR Commodity Shop",
+    "w": 4,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Production",
+    "name": "Bonsai Shop",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Goods",
+    "name": "Botanic Fiber Farm",
+    "w": 4,
+    "h": 7,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Goods",
+    "name": "Jade Crystal Quarry",
+    "w": 6,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Goods",
+    "name": "Sustainable Rice Farm",
+    "w": 5,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Goods",
+    "name": "Nano-Augmentation Clinic",
+    "w": 6,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Goods",
+    "name": "Cryptocurrency Bank",
+    "w": 7,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Culture",
+    "name": "Karaoke Bar",
+    "w": 5,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Culture",
+    "name": "Giant Robot",
+    "w": 4,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Culture",
+    "name": "Dragon Casino",
+    "w": 4,
+    "h": 5,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Culture",
+    "name": "Parade",
+    "w": 6,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Military",
+    "name": "Hidden School",
+    "w": 5,
+    "h": 5,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Military",
+    "name": "Dojo",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Military",
+    "name": "Combat Robot Factory",
+    "w": 4,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Military",
+    "name": "Rocket Range",
+    "w": 4,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Military",
+    "name": "Warrior Monk School",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Decoration",
+    "name": "Holo Statue",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Decoration",
+    "name": "Holo Ad",
+    "w": 2,
+    "h": 2,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Decoration",
+    "name": "Japanese Pine",
+    "w": 1,
+    "h": 1,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Virtual Future",
+    "category": "Decoration",
+    "name": "Animal Hologram",
+    "w": 1,
+    "h": 2,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Virtual_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Culture",
+    "name": "Seafood Restaurant",
+    "w": 6,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Culture",
+    "name": "Water Dome",
+    "w": 4,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Culture",
+    "name": "Coral Reef",
+    "w": 8,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Culture",
+    "name": "Maelstrom Dynamo",
+    "w": 6,
+    "h": 6,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Culture",
+    "name": "Turtle Rescue Centre",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Culture",
+    "name": "Trading Depot",
+    "w": 7,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Culture",
+    "name": "Water Park",
+    "w": 4,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Culture",
+    "name": "Shipwreck",
+    "w": 6,
+    "h": 3,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Culture",
+    "name": "Secret Cove",
+    "w": 4,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Residential",
+    "name": "Seaview Tower",
+    "w": 3,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Residential",
+    "name": "Underwater Hotel",
+    "w": 4,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Military",
+    "name": "Hydroelectric Facility",
+    "w": 4,
+    "h": 6,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Military",
+    "name": "Cruiser Port",
+    "w": 4,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Military",
+    "name": "C.R.A.B. Lab",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Military",
+    "name": "Turturret Dock",
+    "w": 7,
+    "h": 3,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Military",
+    "name": "Manta Bay",
+    "w": 4,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Military",
+    "name": "Nautilus Drop",
+    "w": 6,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Military",
+    "name": "Octo Depot",
+    "w": 4,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Military",
+    "name": "Scimitar Hangar",
+    "w": 3,
+    "h": 7,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Military",
+    "name": "Glider Hive",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Oceanic Future",
+    "category": "Military",
+    "name": "Medusa Silo",
+    "w": 6,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Oceanic_Future",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Mars",
+    "category": "Residential",
+    "name": "Adaptive Home",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Mars",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Mars",
+    "category": "Residential",
+    "name": "Astronaut Training Dormitory",
+    "w": 3,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Mars",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Mars",
+    "category": "Production",
+    "name": "New Horizons Center",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Mars",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Mars",
+    "category": "Production",
+    "name": "Rocket Testing Site",
+    "w": 5,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Mars",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Mars",
+    "category": "Military",
+    "name": "Sentinel Dome",
+    "w": 6,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Mars",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Mars",
+    "category": "Military",
+    "name": "Sniperbot Facility",
+    "w": 5,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Mars",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Mars",
+    "category": "Military",
+    "name": "Space Marine Barracks",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Mars",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Mars",
+    "category": "Military",
+    "name": "Steel Warden Station",
+    "w": 4,
+    "h": 7,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Mars",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Mars",
+    "category": "Military",
+    "name": "Tesla Works",
+    "w": 4,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Mars",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Mars",
+    "category": "Culture",
+    "name": "Satellite Dish",
+    "w": 3,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Mars",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Mars",
+    "category": "Culture",
+    "name": "Space Academy",
+    "w": 5,
+    "h": 4,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Mars",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Mars",
+    "category": "Decoration",
+    "name": "Moonlander",
+    "w": 2,
+    "h": 2,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Mars",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Asteroid Belt",
+    "category": "Residential",
+    "name": "Living Space Residence",
+    "w": 3,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Asteroid_Belt",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Asteroid Belt",
+    "category": "Residential",
+    "name": "Low-Gravity Home",
+    "w": 2,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Asteroid_Belt",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Asteroid Belt",
+    "category": "Culture",
+    "name": "Belt Mining H.Q.",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Asteroid_Belt",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Asteroid Belt",
+    "category": "Culture",
+    "name": "Asteroid Stock Exchange",
+    "w": 5,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Asteroid_Belt",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Asteroid Belt",
+    "category": "Decoration",
+    "name": "Asteroid Ad",
+    "w": 2,
+    "h": 2,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Asteroid_Belt",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Space Hub",
+    "category": "Residential",
+    "name": "Cosmic Suite",
+    "w": 3,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Space_Hub",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Space Hub",
+    "category": "Residential",
+    "name": "Galactic Suite",
+    "w": 3,
+    "h": 2,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Space_Hub",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Space Hub",
+    "category": "Production",
+    "name": "Galactic Observatory",
+    "w": 4,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Space_Hub",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Space Hub",
+    "category": "Production",
+    "name": "A.I. Laboratory",
+    "w": 3,
+    "h": 3,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Space_Hub",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Space Hub",
+    "category": "Military",
+    "name": "Cosmic Space Liner",
+    "w": 4,
+    "h": 6,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Space_Hub",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Space Hub",
+    "category": "Military",
+    "name": "Dream Dust Shuttle",
+    "w": 4,
+    "h": 7,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Space_Hub",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Space Hub",
+    "category": "Military",
+    "name": "Gravity Gunner Vessel",
+    "w": 6,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Space_Hub",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Space Hub",
+    "category": "Military",
+    "name": "Stardust Spacecraft",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Space_Hub",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Space Hub",
+    "category": "Military",
+    "name": "Juggernaut Assembly Vessel",
+    "w": 7,
+    "h": 4,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Space_Hub",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Space Hub",
+    "category": "Culture",
+    "name": "Galaxy Vortex",
+    "w": 5,
+    "h": 5,
+    "roadSize": 2,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Space_Hub",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Space Hub",
+    "category": "Culture",
+    "name": "LU-N-Arcade",
+    "w": 3,
+    "h": 5,
+    "roadSize": 1,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Space_Hub",
+    "auditStatus": "age-overview-only"
+  },
+  {
+    "age": "Space Age Space Hub",
+    "category": "Decoration",
+    "name": "Explorer Ship",
+    "w": 2,
+    "h": 2,
+    "roadSize": 0,
+    "source": "https://forgeofempires.fandom.com/wiki/Space_Age_Space_Hub",
+    "auditStatus": "age-overview-only"
+  }
+]
