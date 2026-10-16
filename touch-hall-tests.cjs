@@ -1,4 +1,4 @@
-const {chromium}=require('/tmp/node_modules/playwright');
+const {chromium}=require('playwright');
 const assert=require('node:assert/strict');
 (async()=>{const browser=await chromium.launch({channel:'chromium',args:['--no-sandbox','--disable-gpu']});const page=await browser.newPage({viewport:{width:1440,height:900},hasTouch:true});const errors=[];page.on('pageerror',e=>errors.push(e.message));await page.goto('file:///vercel/foe-layout/index.html');let results=[];
 async function check(name,fn){try{await fn();results.push({name,pass:true})}catch(e){results.push({name,pass:false,error:e.message.slice(0,200)})}}
