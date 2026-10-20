@@ -5,7 +5,7 @@ const assert=require('node:assert/strict');
  const page=await browser.newPage({viewport:{width:1440,height:900},acceptDownloads:true});
  const errors=[];page.on('pageerror',e=>errors.push(e.message));
  const results=[];async function test(name,fn){try{await fn();results.push({name,pass:true})}catch(e){results.push({name,pass:false,error:e.message.slice(0,200)})}}
- await page.goto('file:///vercel/foe-layout/index.html');
+ await page.goto(require('node:url').pathToFileURL(require('node:path').join(__dirname,'index.html')).href);
  await test('initial 56x56 grid',async()=>assert.equal(await page.locator('#board .cell').count(),3136));
  await test('starting expansion 16x16',async()=>assert.match(await page.locator('#stats').innerText(),/256 available tiles/));
  await test('zoom buttons',async()=>{await page.locator('#zoom-in').click();await page.locator('#zoom-out').click();await page.locator('#zoom-reset').click();assert.equal(await page.locator('#board .cell').count(),3136)});

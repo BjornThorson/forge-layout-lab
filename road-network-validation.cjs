@@ -1,4 +1,4 @@
-const fs=require('fs'),assert=require('node:assert/strict'),s=fs.readFileSync('/vercel/foe-layout/index.html','utf8'),start=s.indexOf('function optimize('),end=s.indexOf('$("add").onclick',start),optimize=Function(s.slice(start,end)+';return optimize')();
+const fs=require('fs'),assert=require('node:assert/strict'),s=fs.readFileSync(require('node:path').join(__dirname,'index.html'),'utf8'),start=s.indexOf('function optimize('),end=s.indexOf('$("add").onclick',start),optimize=Function(s.slice(start,end)+';return optimize')();
 function validate(r,W,H,hall,blocked){const road=r.road,wide=r.wide,idx=(x,y)=>y*W+x,inside=(x,y)=>x>=0&&y>=0&&x<W&&y<H,adj=(i)=>{const x=i%W,y=Math.floor(i/W);return [[x-1,y],[x+1,y],[x,y-1],[x,y+1]].filter(([x,y])=>inside(x,y)).map(([x,y])=>idx(x,y))},hallTouches=i=>{const x=i%W,y=Math.floor(i/W);return adj(i).some(j=>r.grid[j]===-2)};
  for(const i of road){assert.equal(r.grid[i],0,'road overlaps footprint');assert(!blocked.has(i),'road overlaps excluded')}
  for(const i of wide)assert(road.has(i),'wide outside road');
